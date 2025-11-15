@@ -2,7 +2,7 @@
 
 A small toy web application to upload an image and analyze it using a local, OpenAI-compatible Large Language Model. Users can define custom prompts to extract various types of information, including descriptive text, numerical scores, and bounding boxes for object detection, which are then visualized.
 
-![Local Image Analyst Screenshot](https://imgur.com/oYpdmvF)
+<img width="1664" height="1031" alt="oYpdmvF" src="https://github.com/user-attachments/assets/1423987a-4625-4f8d-8dff-eb5a1717da59" />
 
 ## Features
 
