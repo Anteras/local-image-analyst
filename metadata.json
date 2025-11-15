@@ -1,0 +1,5 @@
+{
+  "name": "Local Image Analyst",
+  "description": "An aesthetic, user-friendly web application to upload an image and analyze it using a local, OpenAI-compatible Large Language Model. Users can define custom prompts to extract various types of information, including descriptive text, numerical scores, and bounding boxes for object detection, which are then visualized.",
+  "requestFramePermissions": []
+}
